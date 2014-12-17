@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">顺路</string>
+    <string name="welcome">祝您一路顺风</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
